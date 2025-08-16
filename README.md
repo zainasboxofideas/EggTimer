@@ -6,9 +6,9 @@ Choose **Soft / Medium / Hard / Custom** timings, watch the animated progress ri
 ---
 ## 🎥 Demo Video
 
-<video src="eggtimer.webm" controls autoplay loop muted width="600">
+<video src="eggtimer.mp4" controls autoplay loop muted width="600">
   Sorry, your browser doesn’t support embedded videos. 
-  You can [download the video](eggtimer.webm) instead.
+  You can [download the video](eggtimer.mp4) instead.
 </video>
 
 
