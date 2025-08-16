@@ -6,10 +6,8 @@ Choose **Soft / Medium / Hard / Custom** timings, watch the animated progress ri
 ---
 ## 🎥 Demo Video
 
-<video src="eggtimer.mp4" controls autoplay loop muted width="600">
-  Sorry, your browser doesn’t support embedded videos. 
-  You can [download the video](eggtimer.mp4) instead.
-</video>
+▶️ Watch the demo (MP4)](https://raw.githubusercontent.com/zainasboxofideas/EggTimer/main/eggtimer.mp4)
+  
 
 
 
